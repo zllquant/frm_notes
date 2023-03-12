@@ -1,3 +1,2 @@
 .idea
-.obsidian/*.json
-.obsidian/plugins/*/data.json
+.obsidian
